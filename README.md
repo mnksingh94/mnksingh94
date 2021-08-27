@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
 <h3 align="center">Data Scientist <img src="https://github.com/mnksingh94/mnksingh94/blob/main/Assets/Developer.gif" width=35 height=25></h3>
-<br />
+
 <br />
 <br />
 I'm a Data Science practitioner with an avid interest in Natural Language Processing and Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
@@ -43,17 +43,12 @@ I'm a Data Science practitioner with an avid interest in Natural Language Proces
 
 <br>
 
-<!--
-**mnksingh94/mnksingh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+You have finally discovered my Github profile, so let's get connected!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
+</p>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mnksingh94" alt="Mayank Kumar" /> </p>
