@@ -14,7 +14,7 @@ I'm a Data Science practitioner with an avid interest in Natural Language Proces
 - 🤔 I’m looking for help with **learning anything new!**
 - 💬 Ask me about anything related to Data science or Programming will try my best to answer.
 - 📫 How to reach me **mnksingh94@gmail.com**
-- 📌 Scroll down to see my **Pinned Repositories**.
+- 📌 Scroll down to see my **Popular Repositories**.
 
 <br>
 
